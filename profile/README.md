@@ -12,6 +12,6 @@ The things you need before installing the software.
 
 ### Server
 
-* Live: live.traumasoftware.net
-* Release: releases.traumasoftware.net
-* Development: dev.traumasoftware.net
+* Live: [live.traumasoftware.net](https://live.traumasoftware.net)
+* Release: [releases.traumasoftware.net](https://releases.traumasoftware.net)
+* Development: [dev.traumasoftware.net](https://dev.traumasoftware.net)
