@@ -1,4 +1,4 @@
-## Trauma Software Inc
+## Trauma Software Corporation.
 
 Creating next generation software & products that deliver excellence to the securities market. Where we give our developers trauma instead of our clients (joke)
 
