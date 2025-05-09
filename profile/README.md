@@ -10,8 +10,7 @@ The things you need before installing the software.
 * Common sense.
 * Something we forgot...
 
-### Server
+### Contact Us
 
-* Live: [live.traumasoftware.net](https://live.traumasoftware.net)
-* Release: [releases.traumasoftware.net](https://releases.traumasoftware.net)
-* Development: [dev.traumasoftware.net](https://dev.traumasoftware.net)
+* Official [Discord](https://discord.gg/traumaware)
+* Email: contact@traumateam.co
