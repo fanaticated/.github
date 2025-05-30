@@ -1,14 +1,12 @@
 ## Trauma Software Corporation.
 
-Creating next generation software & products that deliver excellence to the securities market. Where we give our developers trauma instead of our clients (joke)
+A small company with the vision of developing next-gen software & services that deliver reliance, stability & security to everyone from homelabs, small businesses & enterprise deployments.
 
-### Prerequisites
+### Current Projects
+All projects below are set to be released to the open source community once finished.
 
-The things you need before installing the software.
-
-* A Trauma Plan.
-* Common sense.
-* Something we forgot...
+* Gocord - A Discord library written in Go.
+* More coming soon.
 
 ### Contact Us
 
