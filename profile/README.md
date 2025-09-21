@@ -1,4 +1,4 @@
-## Trauma Software Corporation.
+## Fanaticated LLC.
 
 A small company with the vision of developing next-gen software & services that deliver reliance, stability & security to everyone from homelabs, small businesses & enterprise deployments.
 
@@ -11,5 +11,5 @@ All projects below are set to be released to the open source community once fini
 
 ### Contact Us
 
-* Official [Discord](https://discord.gg/traumaware)
-* Email: contact@traumateam.co
+* Official [Discord](https://discord.fanaticated.com)
+* Email: support@fanaticated.com
